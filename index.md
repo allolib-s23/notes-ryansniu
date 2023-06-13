@@ -44,4 +44,3 @@ Song: Death by Glamour from Undertale
 Original Composer: Toby Fox
 
 Link: https://www.youtube.com/watch?v=2TgO-tN5wAM
-## Tools: MidiParser
